@@ -11,7 +11,7 @@ public class Main {
         System.out.println("The area of Triangle A: " + triangleA.findArea());
         System.out.println("The area of Triangle B: " + triangleB.findArea());
 
-        System.out.println("There are " + Triangle.numOfSides + " sides in triangles");
+        System.out.println("There are " + Triangle.numOfSides + " sides in a triangle");
 
 
     }
